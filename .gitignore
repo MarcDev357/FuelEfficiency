@@ -1,0 +1,12 @@
+# NetBeans and Maven generated files
+target/
+build/
+dist/
+nbproject/private/
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
